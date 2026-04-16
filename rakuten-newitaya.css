@@ -44,10 +44,10 @@ a:active { text-decoration: none; opacity:0.7; }
 	color:#FFFFFF !important;
 	text-align:center;
 	margin:0 auto;
-	background:#192b54 url(https://yadoken.sakura.ne.jp/rt_template/city2019_beige/images/arrow.png) right 15px center no-repeat;
+	background:#76323f url(https://yadoken.sakura.ne.jp/rt_template/city2019_beige/images/arrow.png) right 15px center no-repeat;
 }
 .btn.blank a {
-	background: #192b54 url(https://yadoken.sakura.ne.jp/rt_template/city2019_beige/images/arrow.png) right 15px center no-repeat;
+	background: #76323f url(https://yadoken.sakura.ne.jp/rt_template/city2019_beige/images/arrow.png) right 15px center no-repeat;
 	width:280px;
 	margin:0;
 }
@@ -171,7 +171,7 @@ ul.asterisk li::before {
 	display:block;
 	height:55px;
 	text-align:center;
-	border-left:1px solid #192b54;
+	border-left:1px solid #d0cbb7;
 	line-height:1.35;
 	padding:10px 25px 0;
 	box-sizing:border-box;
@@ -185,7 +185,7 @@ ul.asterisk li::before {
 }
 #RthCustomizeW header nav li.book a {
 	border-left:none;
-	background:#192b54 url(https://yadoken.sakura.ne.jp/rt_template/city2019_beige/images/arrow.png) center right 15px no-repeat;
+	background:#76323f url(https://yadoken.sakura.ne.jp/rt_template/city2019_beige/images/arrow.png) center right 15px no-repeat;
 	padding:10px 50px 0;
 	color:#FFFFFF !important;
 }
@@ -625,8 +625,8 @@ footer dl dt {
 	border-left:6px solid #192b54;
 }
 #plan_wrap .block li a:hover {
-	border: 1px solid #192b54;
-    background: #192b54;
+	border: 1px solid #76323f;
+    background: #76323f;
 	color:#FFFFFF;
 }
 #plan_wrap .block li a:hover span::before {
@@ -659,13 +659,13 @@ footer dl dt {
     color: #FFFFFF !important;
     text-align: center;
     margin: 460px auto 100px;
-    background: #192b54 url(https://yadoken.sakura.ne.jp/rt_template/city2019_beige/images/arrow.png) right 15px center no-repeat;
+    background: #76323f url(https://yadoken.sakura.ne.jp/rt_template/city2019_beige/images/arrow.png) right 15px center no-repeat;
 }
 .btn_detail a {
     position: relative;
     display: inline-block;
     vertical-align: middle;
-    border: 1px solid #192b54;
+    border: 1px solid #76323f;
     border-radius: 4px;
     margin: 0 4px;
     padding: 0 26px 0 15px;
